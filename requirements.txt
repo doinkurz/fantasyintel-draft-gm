@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+numpy
+nflreadpy
+google-genai>=1.0
+python-docx
